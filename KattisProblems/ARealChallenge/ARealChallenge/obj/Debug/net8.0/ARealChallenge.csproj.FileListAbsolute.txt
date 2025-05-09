@@ -1,0 +1,14 @@
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\bin\Debug\net8.0\ARealChallenge.exe
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\bin\Debug\net8.0\ARealChallenge.deps.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\bin\Debug\net8.0\ARealChallenge.runtimeconfig.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\bin\Debug\net8.0\ARealChallenge.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\bin\Debug\net8.0\ARealChallenge.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\obj\Debug\net8.0\ARealChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\obj\Debug\net8.0\ARealChallenge.AssemblyInfoInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\obj\Debug\net8.0\ARealChallenge.AssemblyInfo.cs
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\obj\Debug\net8.0\ARealChallenge.csproj.CoreCompileInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\obj\Debug\net8.0\ARealChallenge.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\obj\Debug\net8.0\refint\ARealChallenge.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\obj\Debug\net8.0\ARealChallenge.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\obj\Debug\net8.0\ARealChallenge.genruntimeconfig.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ARealChallenge\ARealChallenge\obj\Debug\net8.0\ref\ARealChallenge.dll

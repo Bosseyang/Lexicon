@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\MissingNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FE14931-9931-4812-B0C0-420B2B925A47}|MissingNumbers\\MissingNumbers.csproj|c:\\users\\bosse\\desktop\\work\\lexicon fullstack utbildning\\c#fundamentals\\missingnumbers\\missingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FE14931-9931-4812-B0C0-420B2B925A47}|MissingNumbers\\MissingNumbers.csproj|solutionrelative:missingnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\MissingNumbers\\MissingNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "MissingNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\MissingNumbers\\MissingNumbers\\Program.cs*",
+              "RelativeToolTip": "MissingNumbers\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T18:33:29.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

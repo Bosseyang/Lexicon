@@ -1,0 +1,43 @@
+New project C#
+
+
+1  x - Working with code files, projects and solutions
+2  x - Understanding Data types and variables
+3  x - the if decision statement
+4  x - Operators, expressions and Statements
+5  x - for iteration Statements	
+6  x - Understanding Arrays
+7  x - Defining and calling methods
+8  x - While iteration Statements
+9  x - Working with Strings
+10  - Working with Dates and Times
+11  - Understanding Classes
+12  - More About Classes and Methods
+13  - Understanding Scope and Accessibility Modifiers
+14  - Understanding Namespaces and Working with the .NET Class Library
+15  – Creating and Adding References to Assemblies
+16  – Working with Collections
+17  – Working with LINQ
+18  – Enumerations and the Switch Decision Statement
+19  – Gracefully Handling Exceptions
+20  – Understanding Events and Event-Driven Programming
+21  – Where to Go from Here
+
+
+
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Variables
+{
+    class Program
+    {
+        static void Main(string[] args) 
+	{
+	
+	}
+    }
+}

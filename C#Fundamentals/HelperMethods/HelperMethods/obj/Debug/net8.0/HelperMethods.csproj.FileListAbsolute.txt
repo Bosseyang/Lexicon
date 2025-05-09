@@ -1,0 +1,14 @@
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\bin\Debug\net8.0\HelperMethods.exe
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\bin\Debug\net8.0\HelperMethods.deps.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\bin\Debug\net8.0\HelperMethods.runtimeconfig.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\bin\Debug\net8.0\HelperMethods.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\bin\Debug\net8.0\HelperMethods.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.AssemblyInfoInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.AssemblyInfo.cs
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\obj\Debug\net8.0\refint\HelperMethods.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\obj\Debug\net8.0\HelperMethods.genruntimeconfig.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\HelperMethods\HelperMethods\obj\Debug\net8.0\ref\HelperMethods.dll

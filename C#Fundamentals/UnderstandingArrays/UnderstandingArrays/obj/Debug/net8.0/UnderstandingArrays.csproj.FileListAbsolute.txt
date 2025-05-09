@@ -1,0 +1,14 @@
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.exe
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.deps.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.runtimeconfig.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\bin\Debug\net8.0\UnderstandingArrays.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.AssemblyInfoInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.AssemblyInfo.cs
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.csproj.CoreCompileInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\refint\UnderstandingArrays.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\UnderstandingArrays.genruntimeconfig.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\UnderstandingArrays\UnderstandingArrays\obj\Debug\net8.0\ref\UnderstandingArrays.dll

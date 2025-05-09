@@ -1,0 +1,14 @@
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\bin\Debug\net8.0\Decisions.exe
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\bin\Debug\net8.0\Decisions.deps.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\bin\Debug\net8.0\Decisions.runtimeconfig.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\bin\Debug\net8.0\Decisions.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\bin\Debug\net8.0\Decisions.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\obj\Debug\net8.0\Decisions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\obj\Debug\net8.0\Decisions.AssemblyInfoInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\obj\Debug\net8.0\Decisions.AssemblyInfo.cs
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\obj\Debug\net8.0\Decisions.csproj.CoreCompileInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\obj\Debug\net8.0\Decisions.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\obj\Debug\net8.0\refint\Decisions.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\obj\Debug\net8.0\Decisions.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\obj\Debug\net8.0\Decisions.genruntimeconfig.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Decisions\Decisions\obj\Debug\net8.0\ref\Decisions.dll

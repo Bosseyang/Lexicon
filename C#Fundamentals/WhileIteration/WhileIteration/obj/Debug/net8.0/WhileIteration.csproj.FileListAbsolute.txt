@@ -1,0 +1,14 @@
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\bin\Debug\net8.0\WhileIteration.exe
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\bin\Debug\net8.0\WhileIteration.deps.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\bin\Debug\net8.0\WhileIteration.runtimeconfig.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\bin\Debug\net8.0\WhileIteration.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\bin\Debug\net8.0\WhileIteration.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\obj\Debug\net8.0\WhileIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\obj\Debug\net8.0\WhileIteration.AssemblyInfoInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\obj\Debug\net8.0\WhileIteration.AssemblyInfo.cs
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\obj\Debug\net8.0\WhileIteration.csproj.CoreCompileInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\obj\Debug\net8.0\WhileIteration.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\obj\Debug\net8.0\refint\WhileIteration.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\obj\Debug\net8.0\WhileIteration.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\obj\Debug\net8.0\WhileIteration.genruntimeconfig.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\WhileIteration\WhileIteration\obj\Debug\net8.0\ref\WhileIteration.dll

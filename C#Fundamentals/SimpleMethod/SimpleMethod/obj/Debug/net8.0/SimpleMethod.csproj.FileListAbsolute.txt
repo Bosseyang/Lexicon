@@ -1,0 +1,14 @@
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\bin\Debug\net8.0\SimpleMethod.exe
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\bin\Debug\net8.0\SimpleMethod.deps.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\bin\Debug\net8.0\SimpleMethod.runtimeconfig.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\bin\Debug\net8.0\SimpleMethod.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\bin\Debug\net8.0\SimpleMethod.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.AssemblyInfoInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.AssemblyInfo.cs
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.csproj.CoreCompileInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\net8.0\refint\SimpleMethod.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\net8.0\SimpleMethod.genruntimeconfig.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\SimpleMethod\SimpleMethod\obj\Debug\net8.0\ref\SimpleMethod.dll

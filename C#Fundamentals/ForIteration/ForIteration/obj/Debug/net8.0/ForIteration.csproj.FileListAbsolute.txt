@@ -1,0 +1,14 @@
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\bin\Debug\net8.0\ForIteration.exe
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\bin\Debug\net8.0\ForIteration.deps.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\bin\Debug\net8.0\ForIteration.runtimeconfig.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\bin\Debug\net8.0\ForIteration.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\bin\Debug\net8.0\ForIteration.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.AssemblyInfoInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.AssemblyInfo.cs
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.csproj.CoreCompileInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\obj\Debug\net8.0\refint\ForIteration.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\obj\Debug\net8.0\ForIteration.genruntimeconfig.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\ForIteration\ForIteration\obj\Debug\net8.0\ref\ForIteration.dll

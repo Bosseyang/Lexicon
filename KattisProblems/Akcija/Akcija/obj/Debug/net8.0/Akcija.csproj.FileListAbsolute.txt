@@ -1,0 +1,14 @@
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\bin\Debug\net8.0\Akcija.exe
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\bin\Debug\net8.0\Akcija.deps.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\bin\Debug\net8.0\Akcija.runtimeconfig.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\bin\Debug\net8.0\Akcija.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\bin\Debug\net8.0\Akcija.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\obj\Debug\net8.0\Akcija.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\obj\Debug\net8.0\Akcija.AssemblyInfoInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\obj\Debug\net8.0\Akcija.AssemblyInfo.cs
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\obj\Debug\net8.0\Akcija.csproj.CoreCompileInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\obj\Debug\net8.0\Akcija.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\obj\Debug\net8.0\refint\Akcija.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\obj\Debug\net8.0\Akcija.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\obj\Debug\net8.0\Akcija.genruntimeconfig.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\C#Fundamentals\Akcija\Akcija\obj\Debug\net8.0\ref\Akcija.dll
