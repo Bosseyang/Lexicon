@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\CPRNumber\\",
+  "WorkspaceRootPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\KattisProblems\\CPRNumber\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{153DCF84-55CF-4680-8158-E6ABC08BF04F}|CPRNumber\\CPRNumber.csproj|c:\\users\\bosse\\desktop\\work\\lexicon fullstack utbildning\\c#fundamentals\\cprnumber\\cprnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{153DCF84-55CF-4680-8158-E6ABC08BF04F}|CPRNumber\\CPRNumber.csproj|c:\\users\\bosse\\desktop\\work\\lexicon fullstack utbildning\\lexicon\\kattisproblems\\cprnumber\\cprnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{153DCF84-55CF-4680-8158-E6ABC08BF04F}|CPRNumber\\CPRNumber.csproj|solutionrelative:cprnumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\CPRNumber\\CPRNumber\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\KattisProblems\\CPRNumber\\CPRNumber\\Program.cs",
               "RelativeDocumentMoniker": "CPRNumber\\Program.cs",
-              "ToolTip": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\CPRNumber\\CPRNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\KattisProblems\\CPRNumber\\CPRNumber\\Program.cs",
               "RelativeToolTip": "CPRNumber\\Program.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAkAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T17:38:01.129Z",
               "EditorCaption": ""

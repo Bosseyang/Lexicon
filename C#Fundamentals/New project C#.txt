@@ -10,7 +10,7 @@ New project C#
 7  x - Defining and calling methods
 8  x - While iteration Statements
 9  x - Working with Strings
-10  - Working with Dates and Times
+10 x - Working with Dates and Times
 11  - Understanding Classes
 12  - More About Classes and Methods
 13  - Understanding Scope and Accessibility Modifiers

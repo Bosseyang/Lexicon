@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\Variables\\",
+  "WorkspaceRootPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\Variables\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8B76FF29-4D23-40B1-BB22-B7A752CF8354}|Variables\\Variables.csproj|c:\\users\\bosse\\desktop\\work\\lexicon fullstack utbildning\\c#fundamentals\\variables\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8B76FF29-4D23-40B1-BB22-B7A752CF8354}|Variables\\Variables.csproj|c:\\users\\bosse\\desktop\\work\\lexicon fullstack utbildning\\lexicon\\c#fundamentals\\variables\\variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B76FF29-4D23-40B1-BB22-B7A752CF8354}|Variables\\Variables.csproj|solutionrelative:variables\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\Variables\\Variables\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\Variables\\Variables\\Program.cs",
               "RelativeDocumentMoniker": "Variables\\Program.cs",
-              "ToolTip": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\Variables\\Variables\\Program.cs",
+              "ToolTip": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\Variables\\Variables\\Program.cs",
               "RelativeToolTip": "Variables\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBkAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-07T14:58:23.83Z",
               "EditorCaption": ""

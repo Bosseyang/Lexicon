@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\HelperMethods\\HelperMethods\\HelperMethods.csproj": {}
+    "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\HelperMethods\\HelperMethods\\HelperMethods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\HelperMethods\\HelperMethods\\HelperMethods.csproj": {
+    "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\HelperMethods\\HelperMethods\\HelperMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\HelperMethods\\HelperMethods\\HelperMethods.csproj",
+        "projectUniqueName": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\HelperMethods\\HelperMethods\\HelperMethods.csproj",
         "projectName": "HelperMethods",
-        "projectPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\HelperMethods\\HelperMethods\\HelperMethods.csproj",
+        "projectPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\HelperMethods\\HelperMethods\\HelperMethods.csproj",
         "packagesPath": "C:\\Users\\bosse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\HelperMethods\\HelperMethods\\obj\\",
+        "outputPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\HelperMethods\\HelperMethods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

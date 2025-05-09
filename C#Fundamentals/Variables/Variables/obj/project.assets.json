@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\Variables\\Variables\\Variables.csproj",
+      "projectUniqueName": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\Variables\\Variables\\Variables.csproj",
       "projectName": "Variables",
-      "projectPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\Variables\\Variables\\Variables.csproj",
+      "projectPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\Variables\\Variables\\Variables.csproj",
       "packagesPath": "C:\\Users\\bosse\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\Variables\\Variables\\obj\\",
+      "outputPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\Variables\\Variables\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
