@@ -11,7 +11,7 @@ New project C#
 8  x - While iteration Statements
 9  x - Working with Strings
 10 x - Working with Dates and Times
-11  - Understanding Classes
+11 x - Understanding Classes
 12  - More About Classes and Methods
 13  - Understanding Scope and Accessibility Modifiers
 14  - Understanding Namespaces and Working with the .NET Class Library

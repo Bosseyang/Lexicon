@@ -1,0 +1,15 @@
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\bin\Debug\net8.0\ObjectLifetime.exe
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\bin\Debug\net8.0\ObjectLifetime.deps.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\bin\Debug\net8.0\ObjectLifetime.runtimeconfig.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\bin\Debug\net8.0\ObjectLifetime.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\bin\Debug\net8.0\ObjectLifetime.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\obj\Debug\net8.0\ObjectLifetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\obj\Debug\net8.0\ObjectLifetime.AssemblyInfoInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\obj\Debug\net8.0\ObjectLifetime.AssemblyInfo.cs
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\obj\Debug\net8.0\ObjectLifetime.csproj.CoreCompileInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\obj\Debug\net8.0\ObjectLifetime.sourcelink.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\obj\Debug\net8.0\ObjectLifetime.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\obj\Debug\net8.0\refint\ObjectLifetime.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\obj\Debug\net8.0\ObjectLifetime.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\obj\Debug\net8.0\ObjectLifetime.genruntimeconfig.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\ObjectLifetime\ObjectLifetime\obj\Debug\net8.0\ref\ObjectLifetime.dll
