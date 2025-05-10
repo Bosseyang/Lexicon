@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\FizzBuzz\\",
+  "WorkspaceRootPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\KattisProblems\\FizzBuzz\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BDEAEE3C-F600-4048-96EF-4B306CC9E2C0}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\bosse\\desktop\\work\\lexicon fullstack utbildning\\c#fundamentals\\fizzbuzz\\fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BDEAEE3C-F600-4048-96EF-4B306CC9E2C0}|FizzBuzz\\FizzBuzz.csproj|c:\\users\\bosse\\desktop\\work\\lexicon fullstack utbildning\\lexicon\\kattisproblems\\fizzbuzz\\fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BDEAEE3C-F600-4048-96EF-4B306CC9E2C0}|FizzBuzz\\FizzBuzz.csproj|solutionrelative:fizzbuzz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\FizzBuzz\\FizzBuzz\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\KattisProblems\\FizzBuzz\\FizzBuzz\\Program.cs",
               "RelativeDocumentMoniker": "FizzBuzz\\Program.cs",
-              "ToolTip": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\C#Fundamentals\\FizzBuzz\\FizzBuzz\\Program.cs",
+              "ToolTip": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\KattisProblems\\FizzBuzz\\FizzBuzz\\Program.cs",
               "RelativeToolTip": "FizzBuzz\\Program.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwDgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T11:30:21.862Z",
               "EditorCaption": ""

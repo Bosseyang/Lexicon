@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\UnderstandingScope\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C57949ED-B88F-4513-B2E8-7EBE689363CF}|UnderstandingScope\\UnderstandingScope.csproj|c:\\users\\bosse\\desktop\\work\\lexicon fullstack utbildning\\lexicon\\c#fundamentals\\understandingscope\\understandingscope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C57949ED-B88F-4513-B2E8-7EBE689363CF}|UnderstandingScope\\UnderstandingScope.csproj|solutionrelative:understandingscope\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\UnderstandingScope\\UnderstandingScope\\Program.cs",
+              "RelativeDocumentMoniker": "UnderstandingScope\\Program.cs",
+              "ToolTip": "C:\\Users\\bosse\\Desktop\\Work\\Lexicon Fullstack Utbildning\\Lexicon\\C#Fundamentals\\UnderstandingScope\\UnderstandingScope\\Program.cs",
+              "RelativeToolTip": "UnderstandingScope\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T18:05:30.497Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

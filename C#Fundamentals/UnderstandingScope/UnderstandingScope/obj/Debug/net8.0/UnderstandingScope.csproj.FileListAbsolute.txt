@@ -1,0 +1,15 @@
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.exe
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.deps.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.runtimeconfig.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\bin\Debug\net8.0\UnderstandingScope.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.AssemblyInfoInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.AssemblyInfo.cs
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.csproj.CoreCompileInputs.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.sourcelink.json
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\refint\UnderstandingScope.dll
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.pdb
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\UnderstandingScope.genruntimeconfig.cache
+C:\Users\bosse\Desktop\Work\Lexicon Fullstack Utbildning\Lexicon\C#Fundamentals\UnderstandingScope\UnderstandingScope\obj\Debug\net8.0\ref\UnderstandingScope.dll

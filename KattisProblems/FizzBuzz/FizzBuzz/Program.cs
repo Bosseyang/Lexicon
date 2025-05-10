@@ -11,12 +11,11 @@ namespace FizzBuzz
     {
         static void Main(string[] args)
         {
-
             //Console.WriteLine("Please enter X, Y and N in the following format: (X Y N) ");
-            //Initialize and assign the string array with our user input
+            //Initialize and assign the string array with our user input, splitting the characters with a space for each array element.
             string[] input = Console.ReadLine().Split(' ');
             
-            // Parsing each string input to int and declaring for each respective variable
+            // Parsing each string array element input to int and declaring for each respective variable
             int x = int.Parse(input[0]);
             int y = int.Parse(input[1]);
             int n = int.Parse(input[2]);
@@ -32,11 +31,10 @@ namespace FizzBuzz
             //We want to loop from 1 to n
             for (int i = 1; i <= n; i++) 
             {
-                //We are using the modulus operator to check for dividability
+                //We are using the modulus operator to check for divisibility
                 if (i % x == 0 && i % y == 0)
                 {
                     Console.WriteLine("FizzBuzz");
-                    
                 }
                 else if (i % x == 0)
                 {
